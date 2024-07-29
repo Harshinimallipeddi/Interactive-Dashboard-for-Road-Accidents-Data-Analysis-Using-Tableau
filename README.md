@@ -1,4 +1,4 @@
-# Interactive-Dashboard-for-Road-Accidents-Data-Analysis-Using-Tableau
+# Road-Accidents-Data-Analysis-Using-Tableau
 
 ### Description:
 This repository showcases an interactive dashboard created using Tableau for analyzing road accidents data. Leveraging data from [source, if applicable], the dashboard provides insightful visualizations and interactive elements to explore and understand patterns and trends in road accidents.
